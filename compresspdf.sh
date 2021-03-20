@@ -1,4 +1,4 @@
-# compresspdf
+# compresspdf.sh
 # A bash wrapper around GS to compress PDFs!
 
 compresspdf() {
